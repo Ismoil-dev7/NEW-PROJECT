@@ -553,3 +553,179 @@ video {
 [hidden]:where(:not([hidden="until-found"])) {
   display: none;
 }
+
+.ml-32 {
+  margin-left: 8rem;
+}
+
+.mt-10 {
+  margin-top: 2.5rem;
+}
+
+.mt-12 {
+  margin-top: 3rem;
+}
+
+.ml-6 {
+  margin-left: 1.5rem;
+}
+
+.ml-60 {
+  margin-left: 15rem;
+}
+
+.ml-\[\] {
+  margin-left: ;
+}
+
+.ml-\[40\%\] {
+  margin-left: 40%;
+}
+
+.ml-\[30\%\] {
+  margin-left: 30%;
+}
+
+.mt-32 {
+  margin-top: 8rem;
+}
+
+.mt-6 {
+  margin-top: 1.5rem;
+}
+
+.mt-20 {
+  margin-top: 5rem;
+}
+
+.mt-40 {
+  margin-top: 10rem;
+}
+
+.flex {
+  display: flex;
+}
+
+.h-\[\] {
+  height: ;
+}
+
+.h-\[58px\] {
+  height: 58px;
+}
+
+.w-\[\] {
+  width: ;
+}
+
+.w-\[674px\] {
+  width: 674px;
+}
+
+.w-\[654px\] {
+  width: 654px;
+}
+
+.w-\[460px\] {
+  width: 460px;
+}
+
+.w-\[634px\] {
+  width: 634px;
+}
+
+.w-\[400px\] {
+  width: 400px;
+}
+
+.w-\[157px\] {
+  width: 157px;
+}
+
+.w-\[350px\] {
+  width: 350px;
+}
+
+.content-center {
+  align-content: center;
+}
+
+.justify-center {
+  justify-content: center;
+}
+
+.gap-\[30px\] {
+  gap: 30px;
+}
+
+.gap-\[50px\] {
+  gap: 50px;
+}
+
+.rounded-\[\] {
+  border-radius: ;
+}
+
+.rounded-\[29px\] {
+  border-radius: 29px;
+}
+
+.bg-\[\#F78434\] {
+  --tw-bg-opacity: 1;
+  background-color: rgb(247 132 52 / var(--tw-bg-opacity, 1));
+}
+
+.text-center {
+  text-align: center;
+}
+
+.text-\[54px\] {
+  font-size: 54px;
+}
+
+.text-\[\] {
+  color: ;
+}
+
+.text-\[\#F78434\] {
+  --tw-text-opacity: 1;
+  color: rgb(247 132 52 / var(--tw-text-opacity, 1));
+}
+
+.text-white {
+  --tw-text-opacity: 1;
+  color: rgb(255 255 255 / var(--tw-text-opacity, 1));
+}
+
+.hover\:bg-\[\]:hover {
+  background-color: ;
+}
+
+.hover\:bg-green-600:hover {
+  --tw-bg-opacity: 1;
+  background-color: rgb(22 163 74 / var(--tw-bg-opacity, 1));
+}
+
+@media (min-width: 0px) {
+  .mayda\:hidden {
+    display: none;
+  }
+}
+
+@media (min-width: 768px) {
+  .md\:mt-12 {
+    margin-top: 3rem;
+  }
+
+  .md\:ml-\[30\%\] {
+    margin-left: 30%;
+  }
+
+  .md\:flex {
+    display: flex;
+  }
+
+  .md\:gap-\[50px\] {
+    gap: 50px;
+  }
+}
